@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Frontend Mentor - Room homepage solution
 
-## Getting Started
+This is a solution to the [Room homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-First, run the development server:
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### The challenge
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Users should be able to:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Navigate the slider using either their mouse/trackpad or keyboard
 
-## Learn More
+### Screenshot
 
-To learn more about Next.js, take a look at the following resources:
+![Screenshot](image.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Links
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Solution URL: https://github.com/Fanu-Cd/frontend-mentor-room-homepage
+- Live Site URL: 'https://frontend-mentor-room-homepage-taupe.vercel.app/'
 
-## Deploy on Vercel
+### My process
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Built with
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
+- [Tailwindcss](https://tailwindcss.com/) - CSS Framework
+- [Mantine UI](https://mantine.dev/) - UI Library
+- [Vite](https://vite.dev/) - Build tool
+
+### What I learned
+
+What I Learned While I Implemented the Room homepage challenge
+
+- Translating the given UI designs into clean, responsive layout requires strong attention to detail and layout logic.
+- Managing layout differences across screen sizes helped sharpen my skills with CSS Flexbox, and responsive design principles.
+- Fine-tuning hover and focus states across devices improved my understanding of accessible UI patterns.
+- Recreating a pixel-perfect layout demanded critical thinking and problem-solving—especially when aligning elements that behave differently across screen widths.
+
+## Author
+
+- Website - [Fanuel Amare](http://fanuel-amare-personal-portfolio-v2.vercel.app/)
+- Frontend Mentor - [@Fanu-Cd](https://www.frontendmentor.io/profile/Fanu-Cd)
