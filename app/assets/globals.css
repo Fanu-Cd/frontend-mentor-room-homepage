@@ -134,21 +134,21 @@ body {
 }
 
 .heroBox1-sm {
-  background-image: url("././assets/mobile-image-hero-1.jpg");
+  background-image: url("././assets/desktop-image-hero-1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .heroBox2-sm {
-  background-image: url("././assets/mobile-image-hero-2.jpg");
+  background-image: url("././assets/desktop-image-hero-2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .heroBox3-sm {
-  background-image: url("././assets/mobile-image-hero-3.jpg");
+  background-image: url("././assets/desktop-image-hero-3.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
